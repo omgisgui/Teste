@@ -1,0 +1,150 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+ 
+
+#header {
+
+    padding: 0;
+
+    background-color: #6EA9E4;
+
+    margin: 0;
+
+    font-family: 'Inter', sans-serif;
+
+    color: white;
+
+    font-size: 40px;
+
+}
+
+ 
+
+#img {
+
+    border-bottom-right-radius: 30px;
+
+}
+
+ 
+
+#apa{
+
+    background-color: white;
+
+    width: 265px;
+
+    height: 50px;
+
+    border-color: white;
+
+    border-radius: 10px;
+
+    box-shadow: black;
+
+    margin-left: 100px;
+
+    font-size: x-large;
+
+    color: #046DE6;
+
+}
+
+ 
+
+a{
+
+    margin-left: 100px;
+
+}
+
+ 
+
+#doa{
+
+    background-color: #046DE6;
+
+    width: 265px;
+
+    height: 50px;
+
+    border-color: #046DE6;
+
+    border-radius: 10px;
+
+    box-shadow: black;
+
+    color: white;
+
+    font-size: x-large;
+
+
+}
+
+#pix {
+
+    background-color: white;
+
+    color: #004589;
+
+    border: solid;
+
+    border-color: #046DE6;
+
+    border-radius: 25px;
+
+    text-align: right;
+
+    font-size: x-large;
+
+    float: right;
+
+    padding: 25px;
+
+    margin: 25px;
+
+    width: 50%;
+
+    margin-bottom: 0;
+
+}
+
+#icon {
+
+    margin-left: 10px;
+
+    float: left;
+
+    width: 85px;
+
+    height: 45px;
+
+}
+
+
+
+
+#footer {
+
+    padding: 0;
+
+    background-color: #6EA9E4;
+
+    margin-bottom: 0;
+
+    font-family: 'Inter', sans-serif;
+
+    color: white;
+
+    font-size: 40px;
+
+    padding: 25px;
+
+}
+
